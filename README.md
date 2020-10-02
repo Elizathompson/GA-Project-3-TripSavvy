@@ -17,9 +17,7 @@
 * Implement thoughtful user stories/wireframes that are significant enough to help you know which features are core MVP and which you can cut
 * Have a visually impressive design to kick your portfolio up a notch and have something to wow future clients & employers. **ALLOW** time for this.
 * Be deployed online so it's publicly accessible.
-## Installation
-1.	Clone or download the repo
-2.	Open the index.html in your browser of choice
+
 <br><br/>
 ## Idea (Inspire trip, Grad trip, Take a Trip, TripSavvy)
 - A European (with potential to include other continents) trip planner travel app,
