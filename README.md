@@ -1,4 +1,4 @@
-# !Project #3: A MERN Stack App - TRIPSAVVY
+# Project #3: A MERN Stack App - TRIPSAVVY
 
 ## Timeframe
 8 days<br><br/>
@@ -32,28 +32,24 @@ Our Idea was inspired from the 'Luckytrip' app ([https://luckytrip.co.uk/](https
 ## Website Details
 1.	On loading the website takes you to a slash page with our logo, and then users click through to a home page where they can select attributes for their holiday.
 ### Splash
-![Splash Page]()
+![Splash Page](screenshots/splashPage.png)
 ### Home page
-![Home Page]()
-![Home Page with selections]()
+![Home Page](screenshots/homeWithoutSelections.png)
+![Home Page with selections](screenshots/homeWithSelections.png)
 <br><br/>
 2.	Then once the user has selected their attributes and been recommended a trip they're taken to a show page for the city. This has a map showing where the city is, a picture and some details about the city. The user can register and login to unlock more features on the site. Members can 'favourite' or 'wishlist' cities that they like and know or that they like and want to visit. Further members can leave comments/recommendations on cities which will be shown to other users.
-### City Page
-![City Page not logged in]()
-### City Page logged in
-![City Page logged in]()
-### Register
-![Register()
+### City Page logged in and creator of city
+![City Page logged in](screenshots/CityPageCreator.png)
 ### Login
-![Login]()
+![Login](screenshots/Login.png)
 <br><br/>
 3.	Members have profiles. On their profiles it shows cities they have favourited and wish listed both as lists of links they can click to visit that city page but also on a map showing the different locations of the cities.
 ### Profile Page
-![Profile Page]()
+![Profile Page](screenshots/Profile.png)
 <br><br/>
 4.	Users are able to add cities to the database too and then edit and delete the cities they have created.
 ### Add city form
-![Add city form]()
+![Add city form](screenshots/createACity.png)
 <br><br/>
 ## Process
 The starting point for this website was planning our website layout and the models for the backend. We made basic wireframes for the layout with AdobeXD. Whilst planning we also created a Trello board which broke down the challenge of our first full stack app into manageable chunks and written out on 'cards'. This allowed us to assign tasks to members of the team, communicate well and monitor our progress.
