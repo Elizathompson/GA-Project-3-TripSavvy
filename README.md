@@ -29,6 +29,9 @@ Tripsavvy was curated to help keen travellers who cannot decide where they would
 <br></br>
 Our Idea was inspired from the 'Luckytrip' app ([https://luckytrip.co.uk/](https://luckytrip.co.uk/)),
 <br><br/>
+
+Link to deplyed version: https://tripsavvy.herokuapp.com/
+<br></br>
 ## Website Details
 1.	On loading the website takes you to a slash page with our logo, and then users click through to a home page where they can select attributes for their holiday.
 ### Splash
