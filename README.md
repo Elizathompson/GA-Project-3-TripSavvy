@@ -52,21 +52,9 @@ Our Idea was inspired from the 'Luckytrip' app ([https://luckytrip.co.uk/](https
 ![Add city form](screenshots/createACity.png)
 <br><br/>
 ## Process
-The starting point for this website was planning our website layout and the models for the backend. We made basic wireframes for the layout with AdobeXD. Whilst planning we also created a Trello board which broke down the challenge of our first full stack app into manageable chunks and written out on 'cards'. This allowed us to assign tasks to members of the team, communicate well and monitor our progress.
-### Wireframes
-![Website Layout Wireframes](src/styles/WebsiteScreenshots/wireframes.png)
-<br><br/>
+The starting point for this website was planning our website layout and the models for the backend. We made basic wireframes for the layout with AdobeXD. Whilst planning we also created a Trello board which broke down the challenge of our first full stack app into manageable chunks and written out on 'cards'. This allowed us to assign tasks to members of the team
+<br></br>
 We then focused on creating the models in the back end, using Insomnia check our work as we went along. To create the back end we mostly spent our time pair-coding to make sure when you had to refer to the models later on were were all very clear on the terms used and the structures built.
-Wireframes:
-### Home page wireframe
-    Home Page wireframe:
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4536a23e-6816-41e5-b8d6-cdcdce277423/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4536a23e-6816-41e5-b8d6-cdcdce277423/Untitled.png)
-### Show page wireframe
-    'Show' Page wireframe:
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f78f660a-a90a-41c7-ac84-74f4bf6974d6/Screenshot_2020-08-20_at_09.20.09.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f78f660a-a90a-41c7-ac84-74f4bf6974d6/Screenshot_2020-08-20_at_09.20.09.png)
-### Profile page wireframe
-    Profile Page wireframe:
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6f58257-5f86-428d-b2fb-3bd279a9c116/Screenshot_2020-08-20_at_09.21.58.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6f58257-5f86-428d-b2fb-3bd279a9c116/Screenshot_2020-08-20_at_09.21.58.png)
 <br><br/>
 Once the Backend was built we turned our attention to building our React.js frontend. We split up the workload and the time spent pair coding the difficult tasks rotating who was working with who.
 Our MVP included:
